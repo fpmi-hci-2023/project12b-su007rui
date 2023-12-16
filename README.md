@@ -23,6 +23,10 @@ Repository of [web-application "образование китай
 
 This is demo project.
 
+#Reports
+
+Please,visit 'reports/' folder to find links on reports.
+
 #Contributing
 
 Author : су жуй
